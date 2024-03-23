@@ -5,7 +5,6 @@
 
 const char *root = "/root";
 const char *mpeg_file = "/root/320x180.mpg";
-// const char *mpeg_file = "/root/320x240.mpg";
 
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>

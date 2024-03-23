@@ -156,8 +156,6 @@ void setup(void)
     Serial.println("gfx->begin() failed!");
   }
   gfx->fillScreen(BLACK);
-  gfx->flush();
-
 
 #ifdef GFX_BL
   pinMode(GFX_BL, OUTPUT);
