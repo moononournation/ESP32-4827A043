@@ -1,4 +1,18 @@
-# ESP32_4827A043
+# ESP32-4827A043
+
+## RED Board
+
+Board: ESP32S3 Dev Module
+USB CDC On Boot: Disabled
+Flash Size: 16MB
+PSRAM: OPI PSRAM
+
+## BLACK Board
+
+Board: ESP32S3 Dev Module
+USB CDC On Boot: Enabled
+Flash Size: 16MB
+PSRAM: OPI PSRAM
 
 ## AVI conversion
 
